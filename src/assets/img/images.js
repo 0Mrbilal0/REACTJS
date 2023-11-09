@@ -1,4 +1,4 @@
-import heroBg from "./heroBG.jpg";
+import heroBg from "./heroBg.jpg";
 import profileImg from "./profileImg.jpg";
 import testimonials1 from "./testimonials/testimonials-1.jpg";
 import testimonials2 from "./testimonials/testimonials-2.jpg";
